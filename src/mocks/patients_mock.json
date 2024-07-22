@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1001,
+    "cpf": "123.456.789-10",
+    "name": "Alice",
+    "email": "alice@example.com"
+  },
+  {
+    "id": 1002,
+    "cpf": "987.654.321-00",
+    "name": "Bob",
+    "email": "bob@example.com"
+  },
+  {
+    "id": 1003,
+    "cpf": "555.666.777-88",
+    "name": "Charlie",
+    "email": "charlie@example.com"
+  },
+  {
+    "id": 1004,
+    "cpf": "111.222.333-44",
+    "name": "David",
+    "email": "david@example.com"
+  },
+  {
+    "id": 1005,
+    "cpf": "999.888.777-66",
+    "name": "Eve",
+    "email": "eve@example.com"
+  }
+]
